@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #363669;
+}
+
+.header {
+    background-color: rgb(161, 223, 192);
+    color: black;
+    text-align: center;
+}
+.header h1 {
+    font-size: 2.5em;
+    margin: 0.5em 0;
+}
